@@ -1,0 +1,23 @@
+# Lógica #
+Um pra lá, dois pra cá
+
+Em 1987, o grupo Dença quente era formado apenas por crianças que encantaran
+as plateis por onde se apresentaram, com suas coreografias vibrantes e diferentes.
+Hoje, eles já são adultos, mas continuam na dança e ensinam crianças e jovens 
+de sua cidade a dançar na Academia de Apresentação Dança Quente. Recentemente,
+eles montaram uma apresentação na cidade. O número final foi composto de um 
+grupo de cinco casais, os quais apresentam danças diferentes e vestiram 
+uniformes de cores distintas.
+
+A partir das dicas abaixo, indentifique os casais de dançarinos, a dança que apresentaram e a cor do seu uniforme. 
+
+1. Suzana e seu parceiro dançaram rock.
+2. Marcos e sua parceira usaram uniforme azul.
+3. Ana dançou com Nino
+4. O casal que dançou salsa usou uniforme vermelho
+5. Cristina e sua parceiro usaram uniforme marrom.
+6. Antônio e sua parceira dançaram samba.
+7. Paula e seu parceiro, que não e Luis, dançaram tango.
+8. Tânia dançou com Roberto, mas não foi salsa.
+9. O casal que dançou valsa não usou uniforme amarelo.
+
