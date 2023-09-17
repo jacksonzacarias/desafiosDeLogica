@@ -16,10 +16,6 @@ def read_question(path):
     return None
 
 
-
-
-
-
 # ler_conteudo = read_question(path)
 # if ler_conteudo is not None:
 #     print(ler_conteudo)
@@ -61,4 +57,3 @@ while True:
         print("Formato de entrada inválido. Use (linha, coluna) valor.")
         
 imprimir_matriz_com_linhas_adicionais(matriz)
-        
