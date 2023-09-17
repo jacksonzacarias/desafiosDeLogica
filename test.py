@@ -126,7 +126,7 @@ def inserir_valores_na_matriz(matriz):
         entrada = input("Informe as coordenadas e os valores (Exemplo: 0,1 Pedro ou 1 -l Ana Maria Joao): ")
         if entrada.lower() == 'sair':
             break
-    def verbose():
+  
         if '-V' in entrada:
             clearInt = entrada.strip()
             if len(clearInt) >= 3:
@@ -139,13 +139,14 @@ def inserir_valores_na_matriz(matriz):
                 print(imprimir_matriz_com_linhas_adicionais(matriz))
                 inserir_valores_na_matriz(matriz)    
                 
-    def regex():
         correspode = re.search(intregex, entrada)
+        
         if correspode == None:
             parametros(entrada)
             inserir_valores_na_matriz(matriz)            
         if correspode:
-           valor_x = int(correspode.group(1)) 
+            valor_x = int(correspode.group(1)) 
+            entrada = entrada.replace(correspode.group(0),'').strip()
         try: 
             if 0 <= valor_x <= 99:
                 pularLine(valor_x)
