@@ -1,0 +1,7 @@
+Comandos Utilizados 
+comandos 
+ni   (Cria um novo arquivo, tem varios parametros como -p -v exmplos: ni text.txt -v "oi") 
+Set-content (vai setar o conteudo recebido em no destino escolhido) 
+Get-Content (copia o conteudo do arquivo)
+
+Caracter de escape: `n (pula linha)
